@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Las Estrellas">
+    <display-name lang="es">Canal Las Estrellas</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Foro tv">
+    <display-name lang="es">Foro tv</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200908010000 -0500" stop="20200908043000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200908043000 -0500" stop="20200908050000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200908050000 -0500" stop="20200908053000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200908053000 -0500" stop="20200908060000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200908060000 -0500" stop="20200908063000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200908063000 -0500" stop="20200908080000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200908080000 -0500" stop="20200908090000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200908090000 -0500" stop="20200908120000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200908120000 -0500" stop="20200908133000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200908133000 -0500" stop="20200908143000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20200908143000 -0500" stop="20200908153000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Corona de Lágrimas</title>
+  </programme>
+  <programme start="20200908153000 -0500" stop="20200908173000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200908173000 -0500" stop="20200908183000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200908183000 -0500" stop="20200908193000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Esta historia... me suena</title>
+  </programme>
+  <programme start="20200908193000 -0500" stop="20200908203000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200908203000 -0500" stop="20200908213000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200908213000 -0500" stop="20200908223000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">El dragón</title>
+  </programme>
+  <programme start="20200908223000 -0500" stop="20200908230000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200908230000 -0500" stop="20200908233000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Lorenza bebé a bordo</title>
+  </programme>
+  <programme start="20200908233000 -0500" stop="20200909000000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200908013000 -0500" stop="20200908020000 -0500" channel="Foro tv">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20200908020000 -0500" stop="20200908023000 -0500" channel="Foro tv">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200908023000 -0500" stop="20200908033000 -0500" channel="Foro tv">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20200908033000 -0500" stop="20200908060000 -0500" channel="Foro tv">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200908060000 -0500" stop="20200908070000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200908070000 -0500" stop="20200908080000 -0500" channel="Foro tv">
+    <title lang="es">Estrictamente Personal</title>
+  </programme>
+  <programme start="20200908080000 -0500" stop="20200908110000 -0500" channel="Foro tv">
+    <title lang="es">Expreso de la Mañana</title>
+  </programme>
+  <programme start="20200908110000 -0500" stop="20200908120000 -0500" channel="Foro tv">
+    <title lang="es">Por las mañanas</title>
+  </programme>
+  <programme start="20200908120000 -0500" stop="20200908130000 -0500" channel="Foro tv">
+    <title lang="es">Paralelo 23</title>
+  </programme>
+  <programme start="20200908130000 -0500" stop="20200908140000 -0500" channel="Foro tv">
+    <title lang="es">Las Noticias de las 1300 hrs</title>
+  </programme>
+  <programme start="20200908140000 -0500" stop="20200908150000 -0500" channel="Foro tv">
+    <title lang="es">Noticias MX</title>
+  </programme>
+  <programme start="20200908150000 -0500" stop="20200908160000 -0500" channel="Foro tv">
+    <title lang="es">A las 3</title>
+  </programme>
+  <programme start="20200908160000 -0500" stop="20200908180000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200908180000 -0500" stop="20200908210000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200908210000 -0500" stop="20200908220000 -0500" channel="Foro tv">
+    <title lang="es">Hora 21</title>
+  </programme>
+  <programme start="20200908220000 -0500" stop="20200908230000 -0500" channel="Foro tv">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20200908230000 -0500" stop="20200909000000 -0500" channel="Foro tv">
+    <title lang="es">Punto y Contrapunto</title>
+  </programme>
+</tv>

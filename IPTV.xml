@@ -70,6 +70,18 @@
   <programme start="20200908233000 -0500" stop="20200909000000 -0500" channel="Canal Las Estrellas">
     <title lang="es">Contacto deportivo En Vivo</title>
   </programme>
+  <programme start="20200909133000 -0500" stop="20200909143000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200909193000 -0500" stop="20200909203000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200909230000 -0500" stop="20200910000000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Tercer Grado</title>
+  </programme>
+  <programme start="20200910230000 -0500" stop="20200910233000 -0500" channel="Canal Las Estrellas">
+    <title lang="es">Renta Congelada</title>
+  </programme>
   <programme start="20200908013000 -0500" stop="20200908020000 -0500" channel="Foro tv">
     <title lang="es">Fractal</title>
   </programme>
@@ -120,5 +132,14 @@
   </programme>
   <programme start="20200908230000 -0500" stop="20200909000000 -0500" channel="Foro tv">
     <title lang="es">Punto y Contrapunto</title>
+  </programme>
+  <programme start="20200909000000 -0500" stop="20200909010000 -0500" channel="Foro tv">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200909010000 -0500" stop="20200909020000 -0500" channel="Foro tv">
+    <title lang="es">Punto y Contrapunto</title>
+  </programme>
+  <programme start="20200909180000 -0500" stop="20200909210000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
   </programme>
 </tv>

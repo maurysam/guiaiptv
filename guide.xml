@@ -1,0 +1,2714 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Azteca Uno">
+    <display-name lang="es">Canal Azteca Uno</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <display-name lang="es">Canal 2 de México (Canal Las Estrellas - XEW)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal de las Estrellas -1 Hora - México (XEW)">
+    <display-name lang="es">Canal de las Estrellas -1 Hora - México (XEW)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal de las Estrellas -2 Horas - México (XEW)">
+    <display-name lang="es">Canal de las Estrellas -2 Horas - México (XEW)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Foro tv">
+    <display-name lang="es">Foro tv</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 5 de México (XHGC)">
+    <display-name lang="es">Canal 5 de México (XHGC)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca 7  (México)">
+    <display-name lang="es">Canal Azteca 7  (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 9 de México (XEQ-TDT)">
+    <display-name lang="es">Canal 9 de México (XEQ-TDT)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Once TV - México (XEIPN-TV)">
+    <display-name lang="es">Canal Once TV - México (XEIPN-TV)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ADN 40">
+    <display-name lang="es">Canal ADN 40</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200912001500 -0500" stop="20200912003000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Iglesia Universal</title>
+  </programme>
+  <programme start="20200912003000 -0500" stop="20200912040000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912040000 -0500" stop="20200912041500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20200912041500 -0500" stop="20200912050000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912050000 -0500" stop="20200912053000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20200912053000 -0500" stop="20200912061500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912061500 -0500" stop="20200912080000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La Tía de las Muchachas</title>
+  </programme>
+  <programme start="20200912080000 -0500" stop="20200912090000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20200912090000 -0500" stop="20200912110000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200912110000 -0500" stop="20200912130000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200912130000 -0500" stop="20200912140000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200912140000 -0500" stop="20200912150000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20200912150000 -0500" stop="20200912160000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20200912160000 -0500" stop="20200912180000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20200912180000 -0500" stop="20200912200000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20200912200000 -0500" stop="20200912230000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Corazón grupero</title>
+  </programme>
+  <programme start="20200912230000 -0500" stop="20200913000000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20200913001500 -0500" stop="20200913021500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913021500 -0500" stop="20200913041500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913041500 -0500" stop="20200913050000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913050000 -0500" stop="20200913053000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20200913053000 -0500" stop="20200913061500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200913061500 -0500" stop="20200913080000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Cucurrucucú paloma</title>
+  </programme>
+  <programme start="20200913080000 -0500" stop="20200913090000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20200913090000 -0500" stop="20200913120000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200913120000 -0500" stop="20200913130000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Deezer Live</title>
+  </programme>
+  <programme start="20200913130000 -0500" stop="20200913140000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20200913140000 -0500" stop="20200913150000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">En sus Batallas</title>
+  </programme>
+  <programme start="20200913150000 -0500" stop="20200913160000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20200913160000 -0500" stop="20200913170000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Domingo Al Extremo</title>
+  </programme>
+  <programme start="20200913170000 -0500" stop="20200913200000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Mi pareja puede</title>
+  </programme>
+  <programme start="20200913200000 -0500" stop="20200913231500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20200913231500 -0500" stop="20200914011500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20200914011500 -0500" stop="20200914031500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20200914031500 -0500" stop="20200914044500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La resolana</title>
+  </programme>
+  <programme start="20200914044500 -0500" stop="20200914050000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914053000 -0500" stop="20200914061500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914061500 -0500" stop="20200914070000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Primera Línea</title>
+  </programme>
+  <programme start="20200914070000 -0500" stop="20200914080000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20200914080000 -0500" stop="20200914090000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20200914140000 -0500" stop="20200914150000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20200914150000 -0500" stop="20200914163000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando</title>
+  </programme>
+  <programme start="20200914163000 -0500" stop="20200914173000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Todos quieren fama</title>
+  </programme>
+  <programme start="20200914173000 -0500" stop="20200914193000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20200914193000 -0500" stop="20200914223000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">La voz</title>
+  </programme>
+  <programme start="20200914223000 -0500" stop="20200914231500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20200914231500 -0500" stop="20200914233000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20200914233000 -0500" stop="20200915000000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20200915053000 -0500" stop="20200915061500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915061500 -0500" stop="20200915070000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Primera Línea</title>
+  </programme>
+  <programme start="20200915070000 -0500" stop="20200915080000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20200915080000 -0500" stop="20200915090000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos Aquí entre nos</title>
+  </programme>
+  <programme start="20200915090000 -0500" stop="20200915110000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200915110000 -0500" stop="20200915130000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200915130000 -0500" stop="20200915140000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20200915140000 -0500" stop="20200915150000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20200915150000 -0500" stop="20200915163000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando</title>
+  </programme>
+  <programme start="20200915163000 -0500" stop="20200915173000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Todos quieren fama</title>
+  </programme>
+  <programme start="20200915173000 -0500" stop="20200915193000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20200915193000 -0500" stop="20200915223000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20200915223000 -0500" stop="20200915224500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20200915224500 -0500" stop="20200916020000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">El Grito de México</title>
+  </programme>
+  <programme start="20200916224500 -0500" stop="20200917020000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">El Grito de México</title>
+  </programme>
+  <programme start="20200917020000 -0500" stop="20200917040000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200917040000 -0500" stop="20200917041500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Azteca Uno</title>
+  </programme>
+  <programme start="20200917041500 -0500" stop="20200917050000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200917193000 -0500" stop="20200917223000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Exatlón Titanes vs. Héroes</title>
+  </programme>
+  <programme start="20200917223000 -0500" stop="20200917231500 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20200917231500 -0500" stop="20200917233000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20200917233000 -0500" stop="20200918000000 -0500" channel="Canal Azteca Uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20200912010000 -0500" stop="20200912043000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912043000 -0500" stop="20200912050000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200912050000 -0500" stop="20200912060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912060000 -0500" stop="20200912071500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20200912071500 -0500" stop="20200912090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Chicas casaderas</title>
+  </programme>
+  <programme start="20200912090000 -0500" stop="20200912110000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">¿Dónde quedó la bolita</title>
+  </programme>
+  <programme start="20200912110000 -0500" stop="20200912130000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuentamelo Ya</title>
+  </programme>
+  <programme start="20200912130000 -0500" stop="20200912143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Pero sigo siendo el rey</title>
+  </programme>
+  <programme start="20200912143000 -0500" stop="20200912163000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Puerta joven</title>
+  </programme>
+  <programme start="20200912163000 -0500" stop="20200912190000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20200912190000 -0500" stop="20200912210000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200912210000 -0500" stop="20200912230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Sin miedo a la verdad</title>
+  </programme>
+  <programme start="20200912230000 -0500" stop="20200913000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20200913000000 -0500" stop="20200913003000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20200913003000 -0500" stop="20200913023000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913023000 -0500" stop="20200913060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913060000 -0500" stop="20200913071500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20200913071500 -0500" stop="20200913090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Santo y Blue Demon vs Frankens</title>
+  </programme>
+  <programme start="20200913090000 -0500" stop="20200913110000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La mugrosita</title>
+  </programme>
+  <programme start="20200913110000 -0500" stop="20200913114500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Más Deporte En Vivo</title>
+  </programme>
+  <programme start="20200913114500 -0500" stop="20200913140000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">U.N.A.M vs. Atlético San Luis</title>
+  </programme>
+  <programme start="20200913140000 -0500" stop="20200913150000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Acción</title>
+  </programme>
+  <programme start="20200913150000 -0500" stop="20200913160000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20200913160000 -0500" stop="20200913183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Un quijote sin mancha</title>
+  </programme>
+  <programme start="20200913183000 -0500" stop="20200913193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20200913193000 -0500" stop="20200913203000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20200913203000 -0500" stop="20200913230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20200913230000 -0500" stop="20200914000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20200914000000 -0500" stop="20200914011000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20200914011000 -0500" stop="20200914043000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914050000 -0500" stop="20200914060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914060000 -0500" stop="20200914063000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200914063000 -0500" stop="20200914080000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200914080000 -0500" stop="20200914090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200914090000 -0500" stop="20200914120000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200914120000 -0500" stop="20200914133000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200914133000 -0500" stop="20200914143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El Juego de las Estrellas</title>
+  </programme>
+  <programme start="20200914143000 -0500" stop="20200914153000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20200914153000 -0500" stop="20200914173000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200914173000 -0500" stop="20200914183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200914183000 -0500" stop="20200914193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200914193000 -0500" stop="20200914203000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200914203000 -0500" stop="20200914213000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200914213000 -0500" stop="20200914223000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Imperio de Mentiras</title>
+  </programme>
+  <programme start="20200914223000 -0500" stop="20200914230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200914230000 -0500" stop="20200914233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Relatos Macabrones</title>
+  </programme>
+  <programme start="20200914233000 -0500" stop="20200915000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200915050000 -0500" stop="20200915053000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915053000 -0500" stop="20200915060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200915060000 -0500" stop="20200915063000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200915063000 -0500" stop="20200915080000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200915080000 -0500" stop="20200915090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200915090000 -0500" stop="20200915120000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200915120000 -0500" stop="20200915133000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200915133000 -0500" stop="20200915143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20200915143000 -0500" stop="20200915153000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20200915153000 -0500" stop="20200915173000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200915173000 -0500" stop="20200915183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200915183000 -0500" stop="20200915193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200915193000 -0500" stop="20200915203000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200915203000 -0500" stop="20200915213000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200915213000 -0500" stop="20200915223000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Imperio de Mentiras</title>
+  </programme>
+  <programme start="20200915223000 -0500" stop="20200915224500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200915224500 -0500" stop="20200915230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Vive México</title>
+  </programme>
+  <programme start="20200915230000 -0500" stop="20200915231500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Ceremonia Grito Independencia</title>
+  </programme>
+  <programme start="20200915231500 -0500" stop="20200916010000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Vive México</title>
+  </programme>
+  <programme start="20200916231500 -0500" stop="20200917010000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Vive México</title>
+  </programme>
+  <programme start="20200917133000 -0500" stop="20200917143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200917223000 -0500" stop="20200917230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200917230000 -0500" stop="20200918000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Tercer Grado</title>
+  </programme>
+  <programme start="20200918230000 -0500" stop="20200918233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Renta Congelada</title>
+  </programme>
+  <programme start="20200918233000 -0500" stop="20200919000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200919230000 -0500" stop="20200919233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Relatos Macabrones</title>
+  </programme>
+  <programme start="20200912003000 -0500" stop="20200912010000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200912010000 -0500" stop="20200912020000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20200912020000 -0500" stop="20200912053000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912053000 -0500" stop="20200912060000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200912060000 -0500" stop="20200912070000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912070000 -0500" stop="20200912081500 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20200912081500 -0500" stop="20200912100000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Chicas casaderas</title>
+  </programme>
+  <programme start="20200912100000 -0500" stop="20200912120000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">¿Dónde quedó la bolita</title>
+  </programme>
+  <programme start="20200912120000 -0500" stop="20200912140000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Cuentamelo Ya</title>
+  </programme>
+  <programme start="20200912140000 -0500" stop="20200912153000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Pero sigo siendo el rey</title>
+  </programme>
+  <programme start="20200912153000 -0500" stop="20200912173000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Puerta joven</title>
+  </programme>
+  <programme start="20200912173000 -0500" stop="20200912200000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20200912200000 -0500" stop="20200912220000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200912220000 -0500" stop="20200913000000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Sin miedo a la verdad</title>
+  </programme>
+  <programme start="20200913000000 -0500" stop="20200913010000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20200913010000 -0500" stop="20200913013000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20200913013000 -0500" stop="20200913033000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913033000 -0500" stop="20200913070000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913081500 -0500" stop="20200913100000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Santo y Blue Demon vs Frankens</title>
+  </programme>
+  <programme start="20200913100000 -0500" stop="20200913120000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">La mugrosita</title>
+  </programme>
+  <programme start="20200913120000 -0500" stop="20200913124500 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Más Deporte En Vivo</title>
+  </programme>
+  <programme start="20200913124500 -0500" stop="20200913150000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">U.N.A.M vs. Atlético San Luis</title>
+  </programme>
+  <programme start="20200913150000 -0500" stop="20200913160000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Acción</title>
+  </programme>
+  <programme start="20200913160000 -0500" stop="20200913170000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20200913170000 -0500" stop="20200913193000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Un quijote sin mancha</title>
+  </programme>
+  <programme start="20200913193000 -0500" stop="20200913203000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20200913203000 -0500" stop="20200913213000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20200913213000 -0500" stop="20200914000000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20200914000000 -0500" stop="20200914010000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20200914010000 -0500" stop="20200914021000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20200914021000 -0500" stop="20200914053000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914053000 -0500" stop="20200914060000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200914060000 -0500" stop="20200914070000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914070000 -0500" stop="20200914073000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200914073000 -0500" stop="20200914090000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200914090000 -0500" stop="20200914100000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200914100000 -0500" stop="20200914130000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200914130000 -0500" stop="20200914143000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200914143000 -0500" stop="20200914153000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">El Juego de las Estrellas</title>
+  </programme>
+  <programme start="20200914153000 -0500" stop="20200914163000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20200914163000 -0500" stop="20200914183000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200914183000 -0500" stop="20200914193000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200914193000 -0500" stop="20200914203000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200914203000 -0500" stop="20200914213000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200914213000 -0500" stop="20200914223000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200914223000 -0500" stop="20200914233000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Imperio de Mentiras</title>
+  </programme>
+  <programme start="20200914233000 -0500" stop="20200915000000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200915060000 -0500" stop="20200915063000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915063000 -0500" stop="20200915070000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200915143000 -0500" stop="20200915153000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20200915233000 -0500" stop="20200915234500 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200915234500 -0500" stop="20200916000000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Vive México</title>
+  </programme>
+  <programme start="20200916000000 -0500" stop="20200916001500 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Ceremonia Grito Independencia</title>
+  </programme>
+  <programme start="20200916001500 -0500" stop="20200916020000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Vive México</title>
+  </programme>
+  <programme start="20200916020000 -0500" stop="20200916053000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200916060000 -0500" stop="20200916063000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200916063000 -0500" stop="20200916070000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200916070000 -0500" stop="20200916073000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200916073000 -0500" stop="20200916090000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200916090000 -0500" stop="20200916100000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200916100000 -0500" stop="20200916130000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200916130000 -0500" stop="20200916143000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200916143000 -0500" stop="20200916153000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200916153000 -0500" stop="20200916163000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20200916163000 -0500" stop="20200916183000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200916183000 -0500" stop="20200916193000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200916193000 -0500" stop="20200916203000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200916203000 -0500" stop="20200916213000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200916213000 -0500" stop="20200916223000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200916223000 -0500" stop="20200916233000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Imperio de Mentiras</title>
+  </programme>
+  <programme start="20200916233000 -0500" stop="20200917000000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200917000000 -0500" stop="20200917010000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Tercer Grado</title>
+  </programme>
+  <programme start="20200917010000 -0500" stop="20200917020000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20200917143000 -0500" stop="20200917153000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20200918000000 -0500" stop="20200918003000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Renta Congelada</title>
+  </programme>
+  <programme start="20200918143000 -0500" stop="20200918153000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200912003000 -0500" stop="20200912010000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200912010000 -0500" stop="20200912013000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Relatos Macabrones</title>
+  </programme>
+  <programme start="20200912013000 -0500" stop="20200912020000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200912020000 -0500" stop="20200912030000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20200912030000 -0500" stop="20200912063000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912063000 -0500" stop="20200912070000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200912070000 -0500" stop="20200912080000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912080000 -0500" stop="20200912091500 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20200912091500 -0500" stop="20200912110000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Chicas casaderas</title>
+  </programme>
+  <programme start="20200912110000 -0500" stop="20200912130000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">¿Dónde quedó la bolita</title>
+  </programme>
+  <programme start="20200912130000 -0500" stop="20200912150000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Cuentamelo Ya</title>
+  </programme>
+  <programme start="20200912150000 -0500" stop="20200912163000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Pero sigo siendo el rey</title>
+  </programme>
+  <programme start="20200912163000 -0500" stop="20200912183000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Puerta joven</title>
+  </programme>
+  <programme start="20200912183000 -0500" stop="20200912210000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20200912210000 -0500" stop="20200912230000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200912230000 -0500" stop="20200913010000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Sin miedo a la verdad</title>
+  </programme>
+  <programme start="20200913010000 -0500" stop="20200913020000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20200913020000 -0500" stop="20200913023000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20200913023000 -0500" stop="20200913043000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913043000 -0500" stop="20200913080000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913080000 -0500" stop="20200913091500 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20200913091500 -0500" stop="20200913110000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Santo y Blue Demon vs Frankens</title>
+  </programme>
+  <programme start="20200913110000 -0500" stop="20200913130000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">La mugrosita</title>
+  </programme>
+  <programme start="20200913130000 -0500" stop="20200913134500 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Más Deporte En Vivo</title>
+  </programme>
+  <programme start="20200913134500 -0500" stop="20200913160000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">U.N.A.M vs. Atlético San Luis</title>
+  </programme>
+  <programme start="20200913160000 -0500" stop="20200913170000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Acción</title>
+  </programme>
+  <programme start="20200913170000 -0500" stop="20200913180000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20200913180000 -0500" stop="20200913203000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Un quijote sin mancha</title>
+  </programme>
+  <programme start="20200913203000 -0500" stop="20200913213000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20200913213000 -0500" stop="20200913223000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20200913223000 -0500" stop="20200914010000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20200914223000 -0500" stop="20200915010000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20200915010000 -0500" stop="20200915020000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20200915020000 -0500" stop="20200915031000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20200915031000 -0500" stop="20200915063000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915070000 -0500" stop="20200915080000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915080000 -0500" stop="20200915083000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200915083000 -0500" stop="20200915100000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200915100000 -0500" stop="20200915110000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200915110000 -0500" stop="20200915140000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200915140000 -0500" stop="20200915153000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200915153000 -0500" stop="20200915163000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">El Juego de las Estrellas</title>
+  </programme>
+  <programme start="20200915163000 -0500" stop="20200915173000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20200915173000 -0500" stop="20200915193000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200915193000 -0500" stop="20200915203000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200915203000 -0500" stop="20200915213000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200915213000 -0500" stop="20200915223000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200915223000 -0500" stop="20200915233000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200915233000 -0500" stop="20200916003000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Imperio de Mentiras</title>
+  </programme>
+  <programme start="20200916070000 -0500" stop="20200916073000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200916073000 -0500" stop="20200916080000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200916080000 -0500" stop="20200916083000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200916083000 -0500" stop="20200916100000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200916100000 -0500" stop="20200916110000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200916110000 -0500" stop="20200916140000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200916140000 -0500" stop="20200916153000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200916153000 -0500" stop="20200916163000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20200916163000 -0500" stop="20200916173000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20200916173000 -0500" stop="20200916193000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200916193000 -0500" stop="20200916203000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200916203000 -0500" stop="20200916213000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200916213000 -0500" stop="20200916223000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200916223000 -0500" stop="20200916233000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200916233000 -0500" stop="20200917003000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Imperio de Mentiras</title>
+  </programme>
+  <programme start="20200917003000 -0500" stop="20200917004500 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200917004500 -0500" stop="20200917010000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Vive México</title>
+  </programme>
+  <programme start="20200917010000 -0500" stop="20200917011500 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Ceremonia Grito Independencia</title>
+  </programme>
+  <programme start="20200917011500 -0500" stop="20200917030000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Vive México</title>
+  </programme>
+  <programme start="20200917153000 -0500" stop="20200917163000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200918010000 -0500" stop="20200918020000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Tercer Grado</title>
+  </programme>
+  <programme start="20200918020000 -0500" stop="20200918030000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20200918030000 -0500" stop="20200918063000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200918063000 -0500" stop="20200918070000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200918070000 -0500" stop="20200918073000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200918073000 -0500" stop="20200918080000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200918153000 -0500" stop="20200918163000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20200919010000 -0500" stop="20200919013000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
+    <title lang="es">Renta Congelada</title>
+  </programme>
+  <programme start="20200912013000 -0500" stop="20200912020000 -0500" channel="Foro tv">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20200912020000 -0500" stop="20200912023000 -0500" channel="Foro tv">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200912023000 -0500" stop="20200912030000 -0500" channel="Foro tv">
+    <title lang="es">Creadores Universitarios</title>
+  </programme>
+  <programme start="20200912030000 -0500" stop="20200912033000 -0500" channel="Foro tv">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20200912033000 -0500" stop="20200912040000 -0500" channel="Foro tv">
+    <title lang="es">Creadores Universitarios</title>
+  </programme>
+  <programme start="20200912040000 -0500" stop="20200912050000 -0500" channel="Foro tv">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20200912050000 -0500" stop="20200912060000 -0500" channel="Foro tv">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200912060000 -0500" stop="20200912070000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200912070000 -0500" stop="20200912080000 -0500" channel="Foro tv">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912080000 -0500" stop="20200912120000 -0500" channel="Foro tv">
+    <title lang="es">Sábados de Foro</title>
+  </programme>
+  <programme start="20200912120000 -0500" stop="20200912123000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200912123000 -0500" stop="20200912130000 -0500" channel="Foro tv">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20200912130000 -0500" stop="20200912133000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200912133000 -0500" stop="20200912140000 -0500" channel="Foro tv">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20200912140000 -0500" stop="20200912143000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200912143000 -0500" stop="20200912150000 -0500" channel="Foro tv">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20200912150000 -0500" stop="20200912163000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200912163000 -0500" stop="20200912170000 -0500" channel="Foro tv">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20200912170000 -0500" stop="20200912173000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200912173000 -0500" stop="20200912180000 -0500" channel="Foro tv">
+    <title lang="es">Especial Foro TV</title>
+  </programme>
+  <programme start="20200912180000 -0500" stop="20200912183000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200912183000 -0500" stop="20200912190000 -0500" channel="Foro tv">
+    <title lang="es">Creadores Universitarios</title>
+  </programme>
+  <programme start="20200912190000 -0500" stop="20200912220000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200912220000 -0500" stop="20200912230000 -0500" channel="Foro tv">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20200912230000 -0500" stop="20200913000000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200913000000 -0500" stop="20200913003000 -0500" channel="Foro tv">
+    <title lang="es">Creadores Universitarios</title>
+  </programme>
+  <programme start="20200913003000 -0500" stop="20200913010000 -0500" channel="Foro tv">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200913010000 -0500" stop="20200913013000 -0500" channel="Foro tv">
+    <title lang="es">Creadores Universitarios</title>
+  </programme>
+  <programme start="20200913013000 -0500" stop="20200913020000 -0500" channel="Foro tv">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200913080000 -0500" stop="20200913110000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200913110000 -0500" stop="20200913120000 -0500" channel="Foro tv">
+    <title lang="es">Agenda Pública</title>
+  </programme>
+  <programme start="20200913120000 -0500" stop="20200913130000 -0500" channel="Foro tv">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20200913150000 -0500" stop="20200913153000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200913153000 -0500" stop="20200913160000 -0500" channel="Foro tv">
+    <title lang="es">Cuide su Salud</title>
+  </programme>
+  <programme start="20200913160000 -0500" stop="20200913173000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200913173000 -0500" stop="20200913180000 -0500" channel="Foro tv">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20200913190000 -0500" stop="20200913200000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200913200000 -0500" stop="20200913210000 -0500" channel="Foro tv">
+    <title lang="es">Alebrijes, Águila o Sol</title>
+  </programme>
+  <programme start="20200913210000 -0500" stop="20200913230000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200913230000 -0500" stop="20200914000000 -0500" channel="Foro tv">
+    <title lang="es">Sin Filtro</title>
+  </programme>
+  <programme start="20200914000000 -0500" stop="20200914010000 -0500" channel="Foro tv">
+    <title lang="es">Los mejores musicos.com</title>
+  </programme>
+  <programme start="20200914010000 -0500" stop="20200914030000 -0500" channel="Foro tv">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914030000 -0500" stop="20200914050000 -0500" channel="Foro tv">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914070000 -0500" stop="20200914080000 -0500" channel="Foro tv">
+    <title lang="es">Estrictamente Personal</title>
+  </programme>
+  <programme start="20200914080000 -0500" stop="20200914110000 -0500" channel="Foro tv">
+    <title lang="es">Expreso de la Mañana</title>
+  </programme>
+  <programme start="20200914110000 -0500" stop="20200914120000 -0500" channel="Foro tv">
+    <title lang="es">Por las mañanas</title>
+  </programme>
+  <programme start="20200914120000 -0500" stop="20200914130000 -0500" channel="Foro tv">
+    <title lang="es">Paralelo 23</title>
+  </programme>
+  <programme start="20200914130000 -0500" stop="20200914140000 -0500" channel="Foro tv">
+    <title lang="es">Las Noticias de las 1300 hrs</title>
+  </programme>
+  <programme start="20200914140000 -0500" stop="20200914150000 -0500" channel="Foro tv">
+    <title lang="es">Noticias MX</title>
+  </programme>
+  <programme start="20200914150000 -0500" stop="20200914160000 -0500" channel="Foro tv">
+    <title lang="es">A las 3</title>
+  </programme>
+  <programme start="20200914160000 -0500" stop="20200914180000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200914180000 -0500" stop="20200914210000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200914210000 -0500" stop="20200914220000 -0500" channel="Foro tv">
+    <title lang="es">Hora 21</title>
+  </programme>
+  <programme start="20200914220000 -0500" stop="20200914230000 -0500" channel="Foro tv">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20200914230000 -0500" stop="20200915000000 -0500" channel="Foro tv">
+    <title lang="es">Punto y Contrapunto</title>
+  </programme>
+  <programme start="20200915023000 -0500" stop="20200915033000 -0500" channel="Foro tv">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20200915033000 -0500" stop="20200915060000 -0500" channel="Foro tv">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200915060000 -0500" stop="20200915070000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200915070000 -0500" stop="20200915080000 -0500" channel="Foro tv">
+    <title lang="es">Estrictamente Personal</title>
+  </programme>
+  <programme start="20200915080000 -0500" stop="20200915110000 -0500" channel="Foro tv">
+    <title lang="es">Expreso de la Mañana</title>
+  </programme>
+  <programme start="20200915110000 -0500" stop="20200915120000 -0500" channel="Foro tv">
+    <title lang="es">Por las mañanas</title>
+  </programme>
+  <programme start="20200915120000 -0500" stop="20200915130000 -0500" channel="Foro tv">
+    <title lang="es">Paralelo 23</title>
+  </programme>
+  <programme start="20200915130000 -0500" stop="20200915140000 -0500" channel="Foro tv">
+    <title lang="es">Las Noticias de las 1300 hrs</title>
+  </programme>
+  <programme start="20200915140000 -0500" stop="20200915150000 -0500" channel="Foro tv">
+    <title lang="es">Noticias MX</title>
+  </programme>
+  <programme start="20200915150000 -0500" stop="20200915160000 -0500" channel="Foro tv">
+    <title lang="es">A las 3</title>
+  </programme>
+  <programme start="20200915160000 -0500" stop="20200915180000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200915180000 -0500" stop="20200915210000 -0500" channel="Foro tv">
+    <title lang="es">Las noticias</title>
+  </programme>
+  <programme start="20200915210000 -0500" stop="20200915220000 -0500" channel="Foro tv">
+    <title lang="es">Hora 21</title>
+  </programme>
+  <programme start="20200915220000 -0500" stop="20200915230000 -0500" channel="Foro tv">
+    <title lang="es">Es la Hora de Opinar</title>
+  </programme>
+  <programme start="20200915230000 -0500" stop="20200916000000 -0500" channel="Foro tv">
+    <title lang="es">Punto y Contrapunto</title>
+  </programme>
+  <programme start="20200916000000 -0500" stop="20200916010000 -0500" channel="Foro tv">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200916010000 -0500" stop="20200916020000 -0500" channel="Foro tv">
+    <title lang="es">Punto y Contrapunto</title>
+  </programme>
+  <programme start="20200912013000 -0500" stop="20200912020000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Mamá</title>
+  </programme>
+  <programme start="20200912020000 -0500" stop="20200912043000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Nashville</title>
+  </programme>
+  <programme start="20200912043000 -0500" stop="20200912050000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200912050000 -0500" stop="20200912053000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200912053000 -0500" stop="20200912060000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Soy sano</title>
+  </programme>
+  <programme start="20200912060000 -0500" stop="20200912070000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Los Caballeros del Zodiaco La</title>
+  </programme>
+  <programme start="20200912070000 -0500" stop="20200912073000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20200912073000 -0500" stop="20200912080000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20200912080000 -0500" stop="20200912090000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Rugrats Aventuras en Pañales</title>
+  </programme>
+  <programme start="20200912090000 -0500" stop="20200912091500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Enchantimals</title>
+  </programme>
+  <programme start="20200912091500 -0500" stop="20200912101500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Barbie Dreamtopia</title>
+  </programme>
+  <programme start="20200912101500 -0500" stop="20200912113000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20200912113000 -0500" stop="20200912120000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">El Misterio de la Sirena</title>
+  </programme>
+  <programme start="20200912120000 -0500" stop="20200912130000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Enchantimals</title>
+  </programme>
+  <programme start="20200912130000 -0500" stop="20200912144500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">The Thundermans</title>
+  </programme>
+  <programme start="20200912144500 -0500" stop="20200912164500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La Guardia Final</title>
+  </programme>
+  <programme start="20200912164500 -0500" stop="20200912184500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">El cocodrilo 2</title>
+  </programme>
+  <programme start="20200912184500 -0500" stop="20200912204500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Arena desafío mortal</title>
+  </programme>
+  <programme start="20200912204500 -0500" stop="20200912230000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">América vs. Toluca En Vivo</title>
+  </programme>
+  <programme start="20200912230000 -0500" stop="20200913003000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Misterio en el bosque</title>
+  </programme>
+  <programme start="20200913003000 -0500" stop="20200913010000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913010000 -0500" stop="20200913013000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Mamá</title>
+  </programme>
+  <programme start="20200913013000 -0500" stop="20200913020000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913050000 -0500" stop="20200913060000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913060000 -0500" stop="20200913070000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Los Caballeros del Zodiaco La</title>
+  </programme>
+  <programme start="20200913070000 -0500" stop="20200913073000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Blaze and the Monster Machine</title>
+  </programme>
+  <programme start="20200913073000 -0500" stop="20200913080000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">El Espectacular Spiderman</title>
+  </programme>
+  <programme start="20200913080000 -0500" stop="20200913090000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20200913090000 -0500" stop="20200913100000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bakugan</title>
+  </programme>
+  <programme start="20200913100000 -0500" stop="20200913110000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Harvey Beaks</title>
+  </programme>
+  <programme start="20200913110000 -0500" stop="20200913123000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Garfield Fuerza de Mascotas</title>
+  </programme>
+  <programme start="20200913123000 -0500" stop="20200913141500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Mortadelo y Filemón contra</title>
+  </programme>
+  <programme start="20200913141500 -0500" stop="20200913154500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Leyendas del Templo Escondido</title>
+  </programme>
+  <programme start="20200913154500 -0500" stop="20200913174500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Mi amiga la sirena</title>
+  </programme>
+  <programme start="20200913174500 -0500" stop="20200913200000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La laguna azul</title>
+  </programme>
+  <programme start="20200913200000 -0500" stop="20200913214500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">En el Tornado</title>
+  </programme>
+  <programme start="20200913214500 -0500" stop="20200914000000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Tornado</title>
+  </programme>
+  <programme start="20200914000000 -0500" stop="20200914003000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20200914003000 -0500" stop="20200914043000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914043000 -0500" stop="20200914050000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200914050000 -0500" stop="20200914063000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914063000 -0500" stop="20200914070000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20200914070000 -0500" stop="20200914071500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20200914071500 -0500" stop="20200914073000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bebés llorones</title>
+  </programme>
+  <programme start="20200914073000 -0500" stop="20200914080000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20200914080000 -0500" stop="20200914083000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Rainbow Rangers</title>
+  </programme>
+  <programme start="20200914083000 -0500" stop="20200914090000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20200914090000 -0500" stop="20200914093000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">PAW Patrol</title>
+  </programme>
+  <programme start="20200914093000 -0500" stop="20200914100000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Power Players</title>
+  </programme>
+  <programme start="20200914100000 -0500" stop="20200914110000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Un show más</title>
+  </programme>
+  <programme start="20200914110000 -0500" stop="20200914120000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Dragones Carrera al borde</title>
+  </programme>
+  <programme start="20200914120000 -0500" stop="20200914130000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20200914130000 -0500" stop="20200914140000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Nicky, Ricky, Dicky y Dawn</title>
+  </programme>
+  <programme start="20200914140000 -0500" stop="20200914150000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20200914150000 -0500" stop="20200914160000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Miraculous II</title>
+  </programme>
+  <programme start="20200914160000 -0500" stop="20200914170000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20200914170000 -0500" stop="20200914180000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La CQ</title>
+  </programme>
+  <programme start="20200914180000 -0500" stop="20200914190000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Victorious</title>
+  </programme>
+  <programme start="20200914190000 -0500" stop="20200914203000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20200914203000 -0500" stop="20200914223000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Guerreros 2020</title>
+  </programme>
+  <programme start="20200914223000 -0500" stop="20200914233000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Shades of Blue</title>
+  </programme>
+  <programme start="20200914233000 -0500" stop="20200915000000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Super Girl</title>
+  </programme>
+  <programme start="20200915000000 -0500" stop="20200915003000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Mamá</title>
+  </programme>
+  <programme start="20200915003000 -0500" stop="20200915040000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915040000 -0500" stop="20200915043000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915050000 -0500" stop="20200915063000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915063000 -0500" stop="20200915070000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Los cuentos de Masha</title>
+  </programme>
+  <programme start="20200915070000 -0500" stop="20200915071500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20200915071500 -0500" stop="20200915073000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bebés llorones</title>
+  </programme>
+  <programme start="20200915073000 -0500" stop="20200915080000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20200915080000 -0500" stop="20200915083000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Rainbow Rangers</title>
+  </programme>
+  <programme start="20200915083000 -0500" stop="20200915090000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20200915090000 -0500" stop="20200915093000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20200915093000 -0500" stop="20200915100000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Power Players</title>
+  </programme>
+  <programme start="20200915100000 -0500" stop="20200915110000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Un show más</title>
+  </programme>
+  <programme start="20200915110000 -0500" stop="20200915120000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Dragones Carrera al borde</title>
+  </programme>
+  <programme start="20200915120000 -0500" stop="20200915130000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20200915130000 -0500" stop="20200915140000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Nicky, Ricky, Dicky y Dawn</title>
+  </programme>
+  <programme start="20200915140000 -0500" stop="20200915150000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20200915150000 -0500" stop="20200915160000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Miraculous II</title>
+  </programme>
+  <programme start="20200915160000 -0500" stop="20200915170000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20200915170000 -0500" stop="20200915180000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La CQ</title>
+  </programme>
+  <programme start="20200915180000 -0500" stop="20200915190000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Victorious</title>
+  </programme>
+  <programme start="20200915190000 -0500" stop="20200915203000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20200915203000 -0500" stop="20200915223000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Guerreros 2020</title>
+  </programme>
+  <programme start="20200915223000 -0500" stop="20200915233000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Shades of Blue</title>
+  </programme>
+  <programme start="20200915233000 -0500" stop="20200916000000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Super Girl</title>
+  </programme>
+  <programme start="20200916010000 -0500" stop="20200916013000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Estatus</title>
+  </programme>
+  <programme start="20200916013000 -0500" stop="20200916043000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200916063000 -0500" stop="20200916073000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20200916073000 -0500" stop="20200916083000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Ricky Zoom</title>
+  </programme>
+  <programme start="20200916083000 -0500" stop="20200916090000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20200916090000 -0500" stop="20200916103000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Mi perro Pat</title>
+  </programme>
+  <programme start="20200916103000 -0500" stop="20200916120000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Dragons race to the edge</title>
+  </programme>
+  <programme start="20200916120000 -0500" stop="20200916134500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20200916134500 -0500" stop="20200916153000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Miraculous II</title>
+  </programme>
+  <programme start="20200916153000 -0500" stop="20200916170000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20200917063000 -0500" stop="20200917070000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Las canciones de masha</title>
+  </programme>
+  <programme start="20200918000000 -0500" stop="20200918010000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200918010000 -0500" stop="20200918020000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">México Nuevo Siglo</title>
+  </programme>
+  <programme start="20200918020000 -0500" stop="20200918043000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200918053000 -0500" stop="20200918063000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Soy sano</title>
+  </programme>
+  <programme start="20200918071500 -0500" stop="20200918083000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bebés llorones</title>
+  </programme>
+  <programme start="20200918100000 -0500" stop="20200918110000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Yu-Gi-Oh</title>
+  </programme>
+  <programme start="20200918110000 -0500" stop="20200918120000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bunsen es una bestia</title>
+  </programme>
+  <programme start="20200918150000 -0500" stop="20200918164500 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Miraculous II</title>
+  </programme>
+  <programme start="20200918164500 -0500" stop="20200918190000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La luz del día</title>
+  </programme>
+  <programme start="20200918190000 -0500" stop="20200918210000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Volcán</title>
+  </programme>
+  <programme start="20200918210000 -0500" stop="20200918230000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Lo Imposible</title>
+  </programme>
+  <programme start="20200918230000 -0500" stop="20200919000000 -0500" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+  <programme start="20200912003000 -0500" stop="20200912023000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912023000 -0500" stop="20200912043000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912043000 -0500" stop="20200912050000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912050000 -0500" stop="20200912051500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912051500 -0500" stop="20200912053000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20200912053000 -0500" stop="20200912063000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200912063000 -0500" stop="20200912064500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">El Reino Infantil</title>
+  </programme>
+  <programme start="20200912064500 -0500" stop="20200912070000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Molang</title>
+  </programme>
+  <programme start="20200912070000 -0500" stop="20200912073000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Club 57</title>
+  </programme>
+  <programme start="20200912073000 -0500" stop="20200912080000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Bia</title>
+  </programme>
+  <programme start="20200912080000 -0500" stop="20200912083000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Ranma 1/2</title>
+  </programme>
+  <programme start="20200912083000 -0500" stop="20200912090000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Beyblade Burst Turbo</title>
+  </programme>
+  <programme start="20200912090000 -0500" stop="20200912100000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Transformers Rescue Bots</title>
+  </programme>
+  <programme start="20200912100000 -0500" stop="20200912110000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Power Rangers Dino Charge</title>
+  </programme>
+  <programme start="20200912110000 -0500" stop="20200912120000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">My Little Pony La magia</title>
+  </programme>
+  <programme start="20200912120000 -0500" stop="20200912123000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Nacidos en China</title>
+  </programme>
+  <programme start="20200912123000 -0500" stop="20200912134500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Los tres caballeros</title>
+  </programme>
+  <programme start="20200912134500 -0500" stop="20200912153000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Chicken Little</title>
+  </programme>
+  <programme start="20200912153000 -0500" stop="20200912171500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Bolt un perro fuera de serie</title>
+  </programme>
+  <programme start="20200912171500 -0500" stop="20200912190000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">WALL-E</title>
+  </programme>
+  <programme start="20200912190000 -0500" stop="20200912210000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Hércules</title>
+  </programme>
+  <programme start="20200912210000 -0500" stop="20200912230000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Intensamente</title>
+  </programme>
+  <programme start="20200912230000 -0500" stop="20200913003000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Box Azteca</title>
+  </programme>
+  <programme start="20200913230000 -0500" stop="20200914003000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Box Azteca</title>
+  </programme>
+  <programme start="20200914003000 -0500" stop="20200914004500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914004500 -0500" stop="20200914010000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20200914010000 -0500" stop="20200914050000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200914050000 -0500" stop="20200914051500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20200914070000 -0500" stop="20200914073000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20200914073000 -0500" stop="20200914080000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Octonautas</title>
+  </programme>
+  <programme start="20200914080000 -0500" stop="20200914083000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Bubu y las lechucitas</title>
+  </programme>
+  <programme start="20200914083000 -0500" stop="20200914090000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20200914090000 -0500" stop="20200914093000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20200914093000 -0500" stop="20200914100000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Las aventuras enredadas..</title>
+  </programme>
+  <programme start="20200914100000 -0500" stop="20200914103000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Tiny Ones Transport Service</title>
+  </programme>
+  <programme start="20200914103000 -0500" stop="20200914110000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20200914110000 -0500" stop="20200914113000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20200914113000 -0500" stop="20200914120000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
+  <programme start="20200914120000 -0500" stop="20200914133000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Tigger La Película</title>
+  </programme>
+  <programme start="20200914133000 -0500" stop="20200914150000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">El zorro y el sabueso</title>
+  </programme>
+  <programme start="20200914150000 -0500" stop="20200914164500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">El jorobado de Notre Dame</title>
+  </programme>
+  <programme start="20200914164500 -0500" stop="20200914183000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">La Dama y el Vagabundo</title>
+  </programme>
+  <programme start="20200914183000 -0500" stop="20200914201500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">La Bella Durmiente</title>
+  </programme>
+  <programme start="20200914201500 -0500" stop="20200914220000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">La Cenicienta</title>
+  </programme>
+  <programme start="20200914220000 -0500" stop="20200915000000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Enredados</title>
+  </programme>
+  <programme start="20200915000000 -0500" stop="20200915020000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915020000 -0500" stop="20200915040000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915040000 -0500" stop="20200915051500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915051500 -0500" stop="20200915053000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200915064500 -0500" stop="20200915070000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Amigazazo</title>
+  </programme>
+  <programme start="20200915073000 -0500" stop="20200915080000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Plaza Sesamo</title>
+  </programme>
+  <programme start="20200915080000 -0500" stop="20200915083000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20200915083000 -0500" stop="20200915090000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20200915090000 -0500" stop="20200915100000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20200915100000 -0500" stop="20200915110000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">MickeyAventuras sobre ruedas</title>
+  </programme>
+  <programme start="20200915110000 -0500" stop="20200915113000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Transformers Rescue Bots</title>
+  </programme>
+  <programme start="20200915113000 -0500" stop="20200915120000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Power Rangers Dino Charge</title>
+  </programme>
+  <programme start="20200915120000 -0500" stop="20200915130000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">My Little Pony La magia</title>
+  </programme>
+  <programme start="20200915130000 -0500" stop="20200915140000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Alvin y las ardillas</title>
+  </programme>
+  <programme start="20200915140000 -0500" stop="20200915143000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20200915143000 -0500" stop="20200915151500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Las aventuras de los Tiny Toon</title>
+  </programme>
+  <programme start="20200915151500 -0500" stop="20200915160000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Betty Toons</title>
+  </programme>
+  <programme start="20200915160000 -0500" stop="20200915174500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Así en el barrio como en</title>
+  </programme>
+  <programme start="20200915174500 -0500" stop="20200915190000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Huérfanas</title>
+  </programme>
+  <programme start="20200915190000 -0500" stop="20200915204500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">The Good Doctor</title>
+  </programme>
+  <programme start="20200915204500 -0500" stop="20200915223000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Yo soy Betty la fea</title>
+  </programme>
+  <programme start="20200915223000 -0500" stop="20200915233000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">La bandida</title>
+  </programme>
+  <programme start="20200915233000 -0500" stop="20200916003000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Rosario tijeras</title>
+  </programme>
+  <programme start="20200916233000 -0500" stop="20200917003000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Rosario tijeras</title>
+  </programme>
+  <programme start="20200917003000 -0500" stop="20200917040000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200917063000 -0500" stop="20200917070000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Gallina Pintadita Mini</title>
+  </programme>
+  <programme start="20200917070000 -0500" stop="20200917073000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20200917073000 -0500" stop="20200917080000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Octonautas</title>
+  </programme>
+  <programme start="20200917080000 -0500" stop="20200917083000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Bubu Dom</title>
+  </programme>
+  <programme start="20200917083000 -0500" stop="20200917090000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20200917090000 -0500" stop="20200917100000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20200917100000 -0500" stop="20200917110000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">MickeyAventuras sobre ruedas</title>
+  </programme>
+  <programme start="20200917110000 -0500" stop="20200917113000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Beyblade burst</title>
+  </programme>
+  <programme start="20200917113000 -0500" stop="20200917120000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Power Rangers Dino super charg</title>
+  </programme>
+  <programme start="20200917120000 -0500" stop="20200917130000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">My Little Pony La magia</title>
+  </programme>
+  <programme start="20200917130000 -0500" stop="20200917140000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Alvin y las ardillas</title>
+  </programme>
+  <programme start="20200917140000 -0500" stop="20200917143000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20200917143000 -0500" stop="20200917151500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Las aventuras de los Tiny Toon</title>
+  </programme>
+  <programme start="20200917151500 -0500" stop="20200917160000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Betty Toons</title>
+  </programme>
+  <programme start="20200917160000 -0500" stop="20200917174500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Así en el barrio como en</title>
+  </programme>
+  <programme start="20200917174500 -0500" stop="20200917190000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Huérfanas</title>
+  </programme>
+  <programme start="20200917190000 -0500" stop="20200917204500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">The Good Doctor</title>
+  </programme>
+  <programme start="20200917204500 -0500" stop="20200917223000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Yo soy Betty la fea</title>
+  </programme>
+  <programme start="20200917223000 -0500" stop="20200917233000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">La bandida</title>
+  </programme>
+  <programme start="20200918064500 -0500" stop="20200918070000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Vera y el Reino Arcoíris</title>
+  </programme>
+  <programme start="20200918113000 -0500" stop="20200918120000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Power Rangers Dino super charg</title>
+  </programme>
+  <programme start="20200919010000 -0500" stop="20200919030000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200919030000 -0500" stop="20200919050000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200919050000 -0500" stop="20200919051500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200919051500 -0500" stop="20200919053000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200919053000 -0500" stop="20200919063000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200919063000 -0500" stop="20200919064500 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Gallinita Pintadita</title>
+  </programme>
+  <programme start="20200919064500 -0500" stop="20200919070000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Amigazazo</title>
+  </programme>
+  <programme start="20200919120000 -0500" stop="20200919123000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">My Little Pony La magia</title>
+  </programme>
+  <programme start="20200919123000 -0500" stop="20200919130000 -0500" channel="Canal Azteca 7  (México)">
+    <title lang="es">Las Chicas Superpoderosas</title>
+  </programme>
+  <programme start="20200912010000 -0500" stop="20200912030000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200912030000 -0500" stop="20200912040000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20200912040000 -0500" stop="20200912043000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200912043000 -0500" stop="20200912053000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20200912053000 -0500" stop="20200912073000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200912073000 -0500" stop="20200912093000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200912093000 -0500" stop="20200912100000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200912100000 -0500" stop="20200912110000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Reventon musical</title>
+  </programme>
+  <programme start="20200912110000 -0500" stop="20200912120000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Hazaña el deporte vive</title>
+  </programme>
+  <programme start="20200912120000 -0500" stop="20200912153000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Baltimore vs. NY Yankees En Vivo</title>
+  </programme>
+  <programme start="20200912153000 -0500" stop="20200912170000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Lucha libre CMLL</title>
+  </programme>
+  <programme start="20200912170000 -0500" stop="20200912174500 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">La Escuelita V.I.P</title>
+  </programme>
+  <programme start="20200912174500 -0500" stop="20200912193000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Cuna de valientes</title>
+  </programme>
+  <programme start="20200912193000 -0500" stop="20200912211500 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Cabalgando a la luna</title>
+  </programme>
+  <programme start="20200912211500 -0500" stop="20200912230000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">El contrabando del paso</title>
+  </programme>
+  <programme start="20200912230000 -0500" stop="20200913003000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Falsos falsificados</title>
+  </programme>
+  <programme start="20200913003000 -0500" stop="20200913010000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20200913010000 -0500" stop="20200913030000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200913030000 -0500" stop="20200913040000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20200913040000 -0500" stop="20200913043000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200913043000 -0500" stop="20200913053000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20200913053000 -0500" stop="20200913083000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913083000 -0500" stop="20200913113000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913113000 -0500" stop="20200913120000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">NFL Tu pase completo</title>
+  </programme>
+  <programme start="20200913120000 -0500" stop="20200913150000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Miami vs. New England En Vivo</title>
+  </programme>
+  <programme start="20200913150000 -0500" stop="20200913183000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Arizona vs. San Francisco En Vivo</title>
+  </programme>
+  <programme start="20200913183000 -0500" stop="20200913190000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">La Escuelita V.I.P</title>
+  </programme>
+  <programme start="20200913190000 -0500" stop="20200913210000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Tierra de valientes</title>
+  </programme>
+  <programme start="20200913210000 -0500" stop="20200913230000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">México Norte</title>
+  </programme>
+  <programme start="20200913230000 -0500" stop="20200914000000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Falsos falsificados</title>
+  </programme>
+  <programme start="20200914000000 -0500" stop="20200914010000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Automovilismo Fórmula 1</title>
+  </programme>
+  <programme start="20200914010000 -0500" stop="20200914020000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914020000 -0500" stop="20200914040000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Lo mejor de Aqui y Ahora</title>
+  </programme>
+  <programme start="20200914053000 -0500" stop="20200914060000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Iglesia de Dios Internacional</title>
+  </programme>
+  <programme start="20200914060000 -0500" stop="20200914090000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914090000 -0500" stop="20200914120000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914120000 -0500" stop="20200914150000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200914150000 -0500" stop="20200914160000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Jesus</title>
+  </programme>
+  <programme start="20200914160000 -0500" stop="20200914173000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Mujer, Casos de la Vida Real</title>
+  </programme>
+  <programme start="20200914173000 -0500" stop="20200914193000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20200914193000 -0500" stop="20200914203000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">La Familia Peluche</title>
+  </programme>
+  <programme start="20200914203000 -0500" stop="20200914223000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">La hora pico</title>
+  </programme>
+  <programme start="20200914223000 -0500" stop="20200915000000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Sin senos si hay paraíso</title>
+  </programme>
+  <programme start="20200915060000 -0500" stop="20200915080000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200915080000 -0500" stop="20200915100000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200915100000 -0500" stop="20200915120000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200915120000 -0500" stop="20200915140000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200915140000 -0500" stop="20200915150000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200915193000 -0500" stop="20200915203000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">María de todos los Angeles</title>
+  </programme>
+  <programme start="20200916060000 -0500" stop="20200916080000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200916080000 -0500" stop="20200916100000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200916100000 -0500" stop="20200916110000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200916110000 -0500" stop="20200916150000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200916150000 -0500" stop="20200916160000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Jesus</title>
+  </programme>
+  <programme start="20200916160000 -0500" stop="20200916173000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Mujer, Casos de la Vida Real</title>
+  </programme>
+  <programme start="20200916173000 -0500" stop="20200916200000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20200916200000 -0500" stop="20200916223000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20200917100000 -0500" stop="20200917110000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200917110000 -0500" stop="20200917150000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200917173000 -0500" stop="20200917193000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20200917193000 -0500" stop="20200917203000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">María de todos los Angeles</title>
+  </programme>
+  <programme start="20200917203000 -0500" stop="20200917223000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">La hora pico</title>
+  </programme>
+  <programme start="20200917223000 -0500" stop="20200918000000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Sin senos si hay paraíso</title>
+  </programme>
+  <programme start="20200918060000 -0500" stop="20200918090000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200918090000 -0500" stop="20200918120000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200918120000 -0500" stop="20200918150000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200918173000 -0500" stop="20200918200000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20200918200000 -0500" stop="20200918223000 -0500" channel="Canal 9 de México (XEQ-TDT)">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20200912000200 -0500" stop="20200912020000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Bartolo Toca la Flauta</title>
+  </programme>
+  <programme start="20200912020000 -0500" stop="20200912030000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Añoranzas</title>
+  </programme>
+  <programme start="20200912030000 -0500" stop="20200912040000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Conversando Con Cristina Pache</title>
+  </programme>
+  <programme start="20200912040000 -0500" stop="20200912043000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">La ruta del sabor</title>
+  </programme>
+  <programme start="20200912043000 -0500" stop="20200912050000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">La Aventura de México Desconoc</title>
+  </programme>
+  <programme start="20200912050000 -0500" stop="20200912053000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Grandes construcciones</title>
+  </programme>
+  <programme start="20200912053000 -0500" stop="20200912060700 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Crónicas y relatos de México</title>
+  </programme>
+  <programme start="20200912060700 -0500" stop="20200912063000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Actívate</title>
+  </programme>
+  <programme start="20200912063000 -0500" stop="20200912070000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Lunnis de Leyenda</title>
+  </programme>
+  <programme start="20200912070000 -0500" stop="20200912071500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Aprende Inglés con Timmy</title>
+  </programme>
+  <programme start="20200912071500 -0500" stop="20200912073000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Los Cuentos de Yetili</title>
+  </programme>
+  <programme start="20200912073000 -0500" stop="20200912074500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Pingu en la ciudad</title>
+  </programme>
+  <programme start="20200912074500 -0500" stop="20200912080000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Duda y Dada</title>
+  </programme>
+  <programme start="20200912080000 -0500" stop="20200912081500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200912081500 -0500" stop="20200912083000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">OMM MOO</title>
+  </programme>
+  <programme start="20200912083000 -0500" stop="20200912084500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Martín Matín</title>
+  </programme>
+  <programme start="20200912084500 -0500" stop="20200912090000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Mi Caballero y Yo</title>
+  </programme>
+  <programme start="20200912090000 -0500" stop="20200912091500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Puerto papel</title>
+  </programme>
+  <programme start="20200912091500 -0500" stop="20200912093000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Un Día en Once Niños</title>
+  </programme>
+  <programme start="20200912093000 -0500" stop="20200912100000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Alisa sabe que hacer</title>
+  </programme>
+  <programme start="20200912100000 -0500" stop="20200912103000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Las Aventuras de Julio Verne</title>
+  </programme>
+  <programme start="20200912103000 -0500" stop="20200912110000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">¡Ven a ver mi Mundo</title>
+  </programme>
+  <programme start="20200912110000 -0500" stop="20200912120000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Digital</title>
+  </programme>
+  <programme start="20200912120000 -0500" stop="20200912130000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">A la Cachi Cachi Porra</title>
+  </programme>
+  <programme start="20200912130000 -0500" stop="20200912133000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Itinerario</title>
+  </programme>
+  <programme start="20200912133000 -0500" stop="20200912140000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Viajar Para Contar</title>
+  </programme>
+  <programme start="20200912140000 -0500" stop="20200912153000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Conciertos Osipn Orquesta Sinf</title>
+  </programme>
+  <programme start="20200912153000 -0500" stop="20200912160000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Viaje Todo Incluyente</title>
+  </programme>
+  <programme start="20200912160000 -0500" stop="20200912163000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Me encanta Hokkaido</title>
+  </programme>
+  <programme start="20200912163000 -0500" stop="20200912170300 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">El Libro Rojo</title>
+  </programme>
+  <programme start="20200912170300 -0500" stop="20200912184500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Mi Preferida</title>
+  </programme>
+  <programme start="20200912184500 -0500" stop="20200912190000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Big Cities</title>
+  </programme>
+  <programme start="20200912190000 -0500" stop="20200912200300 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Informe diario Coronavirus</title>
+  </programme>
+  <programme start="20200912200300 -0500" stop="20200912203000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Hagamos que suceda</title>
+  </programme>
+  <programme start="20200912203000 -0500" stop="20200912210300 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Watch En Busca de la Verdad</title>
+  </programme>
+  <programme start="20200912210300 -0500" stop="20200912213000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Aquí nos tocó vivir</title>
+  </programme>
+  <programme start="20200912213000 -0500" stop="20200912223000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Noche, Boleros y Son</title>
+  </programme>
+  <programme start="20200912223000 -0500" stop="20200913001500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Tierra de pasiones</title>
+  </programme>
+  <programme start="20200913001500 -0500" stop="20200913011500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Desde el Salón los Ángeles</title>
+  </programme>
+  <programme start="20200913011500 -0500" stop="20200913013000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Saber +</title>
+  </programme>
+  <programme start="20200913013000 -0500" stop="20200913020000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Lugares Secretos</title>
+  </programme>
+  <programme start="20200913020000 -0500" stop="20200913023000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Expedientes Médicos</title>
+  </programme>
+  <programme start="20200913023000 -0500" stop="20200913030000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Aquí nos tocó vivir</title>
+  </programme>
+  <programme start="20200913030000 -0500" stop="20200913060700 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Aprender a Envejecer</title>
+  </programme>
+  <programme start="20200913060700 -0500" stop="20200913063000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Actívate</title>
+  </programme>
+  <programme start="20200913063000 -0500" stop="20200913070000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Lunnis de Leyenda</title>
+  </programme>
+  <programme start="20200913070000 -0500" stop="20200913071500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Aprende Inglés con Timmy</title>
+  </programme>
+  <programme start="20200913071500 -0500" stop="20200913073000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Los Cuentos de Yetili</title>
+  </programme>
+  <programme start="20200913073000 -0500" stop="20200913074500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Pingu en la ciudad</title>
+  </programme>
+  <programme start="20200913074500 -0500" stop="20200913080000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Duda y Dada</title>
+  </programme>
+  <programme start="20200913080000 -0500" stop="20200913081500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200913081500 -0500" stop="20200913083000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Libros en Acción</title>
+  </programme>
+  <programme start="20200913083000 -0500" stop="20200913084500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Martín Matín</title>
+  </programme>
+  <programme start="20200913084500 -0500" stop="20200913090000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Mi Caballero y Yo</title>
+  </programme>
+  <programme start="20200913090000 -0500" stop="20200913091500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">El Tigre sin rayas</title>
+  </programme>
+  <programme start="20200913091500 -0500" stop="20200913093000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Un Día en Once Niños</title>
+  </programme>
+  <programme start="20200913093000 -0500" stop="20200913100000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Alisa sabe que hacer</title>
+  </programme>
+  <programme start="20200913100000 -0500" stop="20200913103000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Las Aventuras de Julio Verne</title>
+  </programme>
+  <programme start="20200913103000 -0500" stop="20200913110000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">¡Ven a ver mi Mundo</title>
+  </programme>
+  <programme start="20200913110000 -0500" stop="20200913140000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Aprender a Envejecer</title>
+  </programme>
+  <programme start="20200913140000 -0500" stop="20200913143000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Guinda y Blanco</title>
+  </programme>
+  <programme start="20200913143000 -0500" stop="20200913164000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Rancho de Mis Recuerdos</title>
+  </programme>
+  <programme start="20200913164000 -0500" stop="20200913170000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Big Cities</title>
+  </programme>
+  <programme start="20200913170000 -0500" stop="20200913190000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">El Padre Morelos</title>
+  </programme>
+  <programme start="20200913190000 -0500" stop="20200913200000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Informe diario Coronavirus</title>
+  </programme>
+  <programme start="20200913200000 -0500" stop="20200913203000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Once noticias, fin de semana</title>
+  </programme>
+  <programme start="20200913203000 -0500" stop="20200913210000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Especiales del Once</title>
+  </programme>
+  <programme start="20200913210000 -0500" stop="20200913220000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Victoria</title>
+  </programme>
+  <programme start="20200913220000 -0500" stop="20200913223000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Muerte sin fin</title>
+  </programme>
+  <programme start="20200913223000 -0500" stop="20200913233000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Los Minondo, Reforma</title>
+  </programme>
+  <programme start="20200913233000 -0500" stop="20200914000200 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Diversos Somos</title>
+  </programme>
+  <programme start="20200914233000 -0500" stop="20200915000200 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Diversos Somos</title>
+  </programme>
+  <programme start="20200915000200 -0500" stop="20200915003000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Once noticias, fin de semana</title>
+  </programme>
+  <programme start="20200915003000 -0500" stop="20200915010000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Diario de Viaje Canadá</title>
+  </programme>
+  <programme start="20200915010000 -0500" stop="20200915013000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Salud Interior</title>
+  </programme>
+  <programme start="20200915013000 -0500" stop="20200915020000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">La ruta del sabor</title>
+  </programme>
+  <programme start="20200915020000 -0500" stop="20200915030000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Taller Actores Profesionales</title>
+  </programme>
+  <programme start="20200915030000 -0500" stop="20200915043000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Diálogos En Confianza</title>
+  </programme>
+  <programme start="20200915043000 -0500" stop="20200915050000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Grandes construcciones</title>
+  </programme>
+  <programme start="20200915050000 -0500" stop="20200915053000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">La Aventura de México Desconoc</title>
+  </programme>
+  <programme start="20200915053000 -0500" stop="20200915060700 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Actívate</title>
+  </programme>
+  <programme start="20200915060700 -0500" stop="20200915090300 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Noticiario matutino</title>
+  </programme>
+  <programme start="20200915090300 -0500" stop="20200915113000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Diálogos En Confianza</title>
+  </programme>
+  <programme start="20200915113000 -0500" stop="20200915124000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Canciones y Recuerdos</title>
+  </programme>
+  <programme start="20200915124000 -0500" stop="20200915130300 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Big Cities</title>
+  </programme>
+  <programme start="20200915130300 -0500" stop="20200915133000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Tu Cocina</title>
+  </programme>
+  <programme start="20200915133000 -0500" stop="20200915140000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">D todo</title>
+  </programme>
+  <programme start="20200915140000 -0500" stop="20200915143000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20200915143000 -0500" stop="20200915150000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Bolita de Pelo</title>
+  </programme>
+  <programme start="20200915150000 -0500" stop="20200915151500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Pingu en la ciudad</title>
+  </programme>
+  <programme start="20200915151500 -0500" stop="20200915153000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Duda y Dada</title>
+  </programme>
+  <programme start="20200915153000 -0500" stop="20200915154500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Ready Jet Go</title>
+  </programme>
+  <programme start="20200915154500 -0500" stop="20200915160000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Martín Matín</title>
+  </programme>
+  <programme start="20200915160000 -0500" stop="20200915161500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Puerto papel</title>
+  </programme>
+  <programme start="20200915161500 -0500" stop="20200915163000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">OMM MOO</title>
+  </programme>
+  <programme start="20200915163000 -0500" stop="20200915170300 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Alisa sabe que hacer</title>
+  </programme>
+  <programme start="20200915170300 -0500" stop="20200915184000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Primero soy mexicano</title>
+  </programme>
+  <programme start="20200915184000 -0500" stop="20200915190000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Saber +</title>
+  </programme>
+  <programme start="20200915200300 -0500" stop="20200915210000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">De Buena Fe</title>
+  </programme>
+  <programme start="20200915210000 -0500" stop="20200915220300 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Noticiario nocturno</title>
+  </programme>
+  <programme start="20200915220300 -0500" stop="20200915230000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Primer plano</title>
+  </programme>
+  <programme start="20200915230000 -0500" stop="20200916000200 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Noticiario Media Noche</title>
+  </programme>
+  <programme start="20200916000200 -0500" stop="20200916003000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Toros, Sol Y Sombra</title>
+  </programme>
+  <programme start="20200916003000 -0500" stop="20200916010000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Especiales la Ciudad de México</title>
+  </programme>
+  <programme start="20200916010000 -0500" stop="20200916013000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Factor ciencia</title>
+  </programme>
+  <programme start="20200916013000 -0500" stop="20200916020000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">La ruta del sabor</title>
+  </programme>
+  <programme start="20200916020000 -0500" stop="20200916030000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Primer plano</title>
+  </programme>
+  <programme start="20200916030000 -0500" stop="20200916053000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Diálogos En Confianza</title>
+  </programme>
+  <programme start="20200916053000 -0500" stop="20200916060700 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Actívate</title>
+  </programme>
+  <programme start="20200916113000 -0500" stop="20200916133000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">El Padre Morelos</title>
+  </programme>
+  <programme start="20200916133000 -0500" stop="20200916140000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">D todo</title>
+  </programme>
+  <programme start="20200916143000 -0500" stop="20200916150000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Los ejercicios salvajes</title>
+  </programme>
+  <programme start="20200916150000 -0500" stop="20200916151500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Pingu en la ciudad</title>
+  </programme>
+  <programme start="20200916151500 -0500" stop="20200916153000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Duda y Dada</title>
+  </programme>
+  <programme start="20200916160000 -0500" stop="20200916161500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Eventos Once Niñas y Niños</title>
+  </programme>
+  <programme start="20200916163000 -0500" stop="20200916190000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Las Aventuras de Julio Verne</title>
+  </programme>
+  <programme start="20200916200300 -0500" stop="20200916203000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">La ruta del sabor</title>
+  </programme>
+  <programme start="20200916203000 -0500" stop="20200916210000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Los que Hicieron Nuestro Cine</title>
+  </programme>
+  <programme start="20200916210000 -0500" stop="20200916220300 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Noticiario nocturno</title>
+  </programme>
+  <programme start="20200916220300 -0500" stop="20200916230000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">John y Sabina</title>
+  </programme>
+  <programme start="20200917000200 -0500" stop="20200917014000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">El Rayo del Sur</title>
+  </programme>
+  <programme start="20200917014000 -0500" stop="20200917020000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Big Cities</title>
+  </programme>
+  <programme start="20200917020000 -0500" stop="20200917030000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Los Minondo, Reforma</title>
+  </programme>
+  <programme start="20200917053000 -0500" stop="20200917060700 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Actívate</title>
+  </programme>
+  <programme start="20200917113000 -0500" stop="20200917131500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">El Rayo del Sur</title>
+  </programme>
+  <programme start="20200917131500 -0500" stop="20200917140000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">COVID-19 Consulta Directa</title>
+  </programme>
+  <programme start="20200917143000 -0500" stop="20200917150000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Bolita de Pelo</title>
+  </programme>
+  <programme start="20200917150000 -0500" stop="20200917151500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Pingu en la ciudad</title>
+  </programme>
+  <programme start="20200917154500 -0500" stop="20200917160000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Libros en Acción</title>
+  </programme>
+  <programme start="20200917163000 -0500" stop="20200917190000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Alisa sabe que hacer</title>
+  </programme>
+  <programme start="20200917200300 -0500" stop="20200917203000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Agenda Verde</title>
+  </programme>
+  <programme start="20200917203000 -0500" stop="20200917210000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Sacro Y Profano</title>
+  </programme>
+  <programme start="20200917220300 -0500" stop="20200917230000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es"># Calle 11</title>
+  </programme>
+  <programme start="20200918000200 -0500" stop="20200918003000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Hagamos que suceda</title>
+  </programme>
+  <programme start="20200918003000 -0500" stop="20200918010000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Historias De Vida</title>
+  </programme>
+  <programme start="20200918020000 -0500" stop="20200918023000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">La Aventura de México Desconoc</title>
+  </programme>
+  <programme start="20200918023000 -0500" stop="20200918030000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Grandes construcciones</title>
+  </programme>
+  <programme start="20200918030000 -0500" stop="20200918053000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Diálogos En Confianza</title>
+  </programme>
+  <programme start="20200918053000 -0500" stop="20200918060700 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Actívate</title>
+  </programme>
+  <programme start="20200918060700 -0500" stop="20200918090300 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Noticiario matutino</title>
+  </programme>
+  <programme start="20200918090300 -0500" stop="20200918113000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Diálogos En Confianza</title>
+  </programme>
+  <programme start="20200918113000 -0500" stop="20200918130300 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Carlota Emperatriz de México</title>
+  </programme>
+  <programme start="20200918130300 -0500" stop="20200918133000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Tu Cocina</title>
+  </programme>
+  <programme start="20200918133000 -0500" stop="20200918140000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">D todo</title>
+  </programme>
+  <programme start="20200918150000 -0500" stop="20200918151500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Pingu en la ciudad</title>
+  </programme>
+  <programme start="20200918160000 -0500" stop="20200918161500 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Puerto Papel</title>
+  </programme>
+  <programme start="20200918163000 -0500" stop="20200918190000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
+    <title lang="es">Las Aventuras de Julio Verne</title>
+  </programme>
+  <programme start="20200912003000 -0500" stop="20200912010000 -0500" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20200912010000 -0500" stop="20200912023000 -0500" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200912023000 -0500" stop="20200912033000 -0500" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20200912033000 -0500" stop="20200912050000 -0500" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200912050000 -0500" stop="20200912053000 -0500" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20200912053000 -0500" stop="20200912080000 -0500" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200912080000 -0500" stop="20200912100000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es de Mañana</title>
+  </programme>
+  <programme start="20200912100000 -0500" stop="20200912110000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Óscar Hernández</title>
+  </programme>
+  <programme start="20200912110000 -0500" stop="20200912120000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Lucero Álvarez</title>
+  </programme>
+  <programme start="20200912120000 -0500" stop="20200912130000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Óscar Hernández</title>
+  </programme>
+  <programme start="20200912130000 -0500" stop="20200912140000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Lucero Álvarez</title>
+  </programme>
+  <programme start="20200912140000 -0500" stop="20200912150000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20200912150000 -0500" stop="20200912160000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Lucero Álvarez</title>
+  </programme>
+  <programme start="20200912160000 -0500" stop="20200912170000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20200912170000 -0500" stop="20200912180000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Lucero Álvarez</title>
+  </programme>
+  <programme start="20200912180000 -0500" stop="20200912190000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20200912190000 -0500" stop="20200912191500 -0500" channel="Canal ADN 40">
+    <title lang="es">No hay lugar común</title>
+  </programme>
+  <programme start="20200912191500 -0500" stop="20200912193000 -0500" channel="Canal ADN 40">
+    <title lang="es">Ahora, Futuro México y el Mund</title>
+  </programme>
+  <programme start="20200912193000 -0500" stop="20200912200000 -0500" channel="Canal ADN 40">
+    <title lang="es">La otra aventura</title>
+  </programme>
+  <programme start="20200912200000 -0500" stop="20200912210000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Jorge A. Rocha</title>
+  </programme>
+  <programme start="20200912210000 -0500" stop="20200912220000 -0500" channel="Canal ADN 40">
+    <title lang="es">ADN Deportes</title>
+  </programme>
+  <programme start="20200912220000 -0500" stop="20200913000000 -0500" channel="Canal ADN 40">
+    <title lang="es">Farandula 40</title>
+  </programme>
+  <programme start="20200913000000 -0500" stop="20200913001500 -0500" channel="Canal ADN 40">
+    <title lang="es">La entrevista con Sarmiento</title>
+  </programme>
+  <programme start="20200913001500 -0500" stop="20200913003000 -0500" channel="Canal ADN 40">
+    <title lang="es">Ruta ADN 40</title>
+  </programme>
+  <programme start="20200913003000 -0500" stop="20200913004500 -0500" channel="Canal ADN 40">
+    <title lang="es">Frente a frente</title>
+  </programme>
+  <programme start="20200913004500 -0500" stop="20200913010000 -0500" channel="Canal ADN 40">
+    <title lang="es">Punto de Fuga</title>
+  </programme>
+  <programme start="20200913050000 -0500" stop="20200913073000 -0500" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20200913073000 -0500" stop="20200913080000 -0500" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200913100000 -0500" stop="20200913110000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20200913120000 -0500" stop="20200913130000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Max Espejel</title>
+  </programme>
+  <programme start="20200913130000 -0500" stop="20200913140000 -0500" channel="Canal ADN 40">
+    <title lang="es">ADN Deportes</title>
+  </programme>
+  <programme start="20200913160000 -0500" stop="20200913170000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Max Espejel</title>
+  </programme>
+  <programme start="20200913170000 -0500" stop="20200913180000 -0500" channel="Canal ADN 40">
+    <title lang="es">El Foco</title>
+  </programme>
+  <programme start="20200913180000 -0500" stop="20200913183000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Alejandro Brofft</title>
+  </programme>
+  <programme start="20200913183000 -0500" stop="20200913190000 -0500" channel="Canal ADN 40">
+    <title lang="es">La otra aventura</title>
+  </programme>
+  <programme start="20200913190000 -0500" stop="20200913193000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20200913193000 -0500" stop="20200913200000 -0500" channel="Canal ADN 40">
+    <title lang="es">El Refugio</title>
+  </programme>
+  <programme start="20200913200000 -0500" stop="20200913210000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias Jorge Armando Rocha</title>
+  </programme>
+  <programme start="20200913210000 -0500" stop="20200913220000 -0500" channel="Canal ADN 40">
+    <title lang="es">Político MX</title>
+  </programme>
+  <programme start="20200913220000 -0500" stop="20200913223000 -0500" channel="Canal ADN 40">
+    <title lang="es">De Cabeza con Andrés Roemer</title>
+  </programme>
+  <programme start="20200913223000 -0500" stop="20200913230000 -0500" channel="Canal ADN 40">
+    <title lang="es">Marcaje personal</title>
+  </programme>
+  <programme start="20200913230000 -0500" stop="20200913233000 -0500" channel="Canal ADN 40">
+    <title lang="es">Séptimo Día</title>
+  </programme>
+  <programme start="20200913233000 -0500" stop="20200914003000 -0500" channel="Canal ADN 40">
+    <title lang="es">Marcaje personal</title>
+  </programme>
+  <programme start="20200914233000 -0500" stop="20200915003000 -0500" channel="Canal ADN 40">
+    <title lang="es">Marcaje personal</title>
+  </programme>
+  <programme start="20200915003000 -0500" stop="20200915010000 -0500" channel="Canal ADN 40">
+    <title lang="es">Marcaje personal</title>
+  </programme>
+  <programme start="20200915010000 -0500" stop="20200915050000 -0500" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915050000 -0500" stop="20200915053000 -0500" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200915053000 -0500" stop="20200915070000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias para despertar</title>
+  </programme>
+  <programme start="20200915070000 -0500" stop="20200915080000 -0500" channel="Canal ADN 40">
+    <title lang="es">Así Amanece Leonardo Curzio</title>
+  </programme>
+  <programme start="20200915080000 -0500" stop="20200915100000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es de Mañana con Mónica Garza</title>
+  </programme>
+  <programme start="20200915100000 -0500" stop="20200915110000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Vaitiare Mateos</title>
+  </programme>
+  <programme start="20200915110000 -0500" stop="20200915120000 -0500" channel="Canal ADN 40">
+    <title lang="es">Tu Mundo en Tiempo Real</title>
+  </programme>
+  <programme start="20200915120000 -0500" stop="20200915130000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Lucy Bravo</title>
+  </programme>
+  <programme start="20200915130000 -0500" stop="20200915150000 -0500" channel="Canal ADN 40">
+    <title lang="es">ADN40 en Línea</title>
+  </programme>
+  <programme start="20200915150000 -0500" stop="20200915160000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia</title>
+  </programme>
+  <programme start="20200915160000 -0500" stop="20200915170000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Romina Ramos</title>
+  </programme>
+  <programme start="20200915170000 -0500" stop="20200915180000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias Luciana Wainer</title>
+  </programme>
+  <programme start="20200915180000 -0500" stop="20200915190000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias Valentina Rodríguez</title>
+  </programme>
+  <programme start="20200915190000 -0500" stop="20200915200000 -0500" channel="Canal ADN 40">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20200915200000 -0500" stop="20200915210000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Alejandro Brofft</title>
+  </programme>
+  <programme start="20200915210000 -0500" stop="20200915220000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Hannia Novell</title>
+  </programme>
+  <programme start="20200915220000 -0500" stop="20200915230000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias Republica MX</title>
+  </programme>
+  <programme start="20200915230000 -0500" stop="20200915233000 -0500" channel="Canal ADN 40">
+    <title lang="es">Todo Personal</title>
+  </programme>
+  <programme start="20200915233000 -0500" stop="20200915234500 -0500" channel="Canal ADN 40">
+    <title lang="es">Primer Círculo</title>
+  </programme>
+  <programme start="20200915234500 -0500" stop="20200916000000 -0500" channel="Canal ADN 40">
+    <title lang="es">La billetera</title>
+  </programme>
+  <programme start="20200916000000 -0500" stop="20200916010000 -0500" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20200916010000 -0500" stop="20200916023000 -0500" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200916023000 -0500" stop="20200916033000 -0500" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20200916033000 -0500" stop="20200916050000 -0500" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200916050000 -0500" stop="20200916053000 -0500" channel="Canal ADN 40">
+    <title lang="es">MDR</title>
+  </programme>
+  <programme start="20200916053000 -0500" stop="20200916070000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias para despertar</title>
+  </programme>
+  <programme start="20200916070000 -0500" stop="20200916080000 -0500" channel="Canal ADN 40">
+    <title lang="es">Así Amanece Leonardo Curzio</title>
+  </programme>
+  <programme start="20200916080000 -0500" stop="20200916100000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es de Mañana con Mónica Garza</title>
+  </programme>
+  <programme start="20200916100000 -0500" stop="20200916110000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Vaitiare Mateos</title>
+  </programme>
+  <programme start="20200916110000 -0500" stop="20200916120000 -0500" channel="Canal ADN 40">
+    <title lang="es">Tu Mundo en Tiempo Real</title>
+  </programme>
+  <programme start="20200916120000 -0500" stop="20200916130000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Lucy Bravo</title>
+  </programme>
+  <programme start="20200916130000 -0500" stop="20200916150000 -0500" channel="Canal ADN 40">
+    <title lang="es">ADN40 en Línea</title>
+  </programme>
+  <programme start="20200916150000 -0500" stop="20200916160000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia con Juan Pablo de</title>
+  </programme>
+  <programme start="20200916160000 -0500" stop="20200916170000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Romina Ramos</title>
+  </programme>
+  <programme start="20200916170000 -0500" stop="20200916180000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias Luciana Wainer</title>
+  </programme>
+  <programme start="20200916180000 -0500" stop="20200916190000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias Valentina Rodríguez</title>
+  </programme>
+  <programme start="20200916190000 -0500" stop="20200916200000 -0500" channel="Canal ADN 40">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20200916200000 -0500" stop="20200916210000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias con Alejandro Brofft</title>
+  </programme>
+  <programme start="20200916210000 -0500" stop="20200916220000 -0500" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Hannia Novell</title>
+  </programme>
+  <programme start="20200916220000 -0500" stop="20200916230000 -0500" channel="Canal ADN 40">
+    <title lang="es">Noticias Republica MX</title>
+  </programme>
+  <programme start="20200916230000 -0500" stop="20200916233000 -0500" channel="Canal ADN 40">
+    <title lang="es">Todo Personal</title>
+  </programme>
+  <programme start="20200916233000 -0500" stop="20200916234500 -0500" channel="Canal ADN 40">
+    <title lang="es">La entrevista con Sarmiento</title>
+  </programme>
+  <programme start="20200916234500 -0500" stop="20200917000000 -0500" channel="Canal ADN 40">
+    <title lang="es">Nombres, Nombres y Nombres</title>
+  </programme>
+  <programme start="20200917000000 -0500" stop="20200917003000 -0500" channel="Canal ADN 40">
+    <title lang="es">México bravo</title>
+  </programme>
+  <programme start="20200917233000 -0500" stop="20200917234500 -0500" channel="Canal ADN 40">
+    <title lang="es">Reporte ADN 40</title>
+  </programme>
+  <programme start="20200917234500 -0500" stop="20200918000000 -0500" channel="Canal ADN 40">
+    <title lang="es">Índice Económico</title>
+  </programme>
+  <programme start="20200918233000 -0500" stop="20200919000000 -0500" channel="Canal ADN 40">
+    <title lang="es">Desde las Cámaras</title>
+  </programme>
+  <programme start="20200919233000 -0500" stop="20200919234500 -0500" channel="Canal ADN 40">
+    <title lang="es">Al filo</title>
+  </programme>
+  <programme start="20200919234500 -0500" stop="20200920000000 -0500" channel="Canal ADN 40">
+    <title lang="es">La de 8</title>
+  </programme>
+</tv>

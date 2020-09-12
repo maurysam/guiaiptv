@@ -31,7 +31,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Azteca 7  (México)">
-    <display-name lang="es">Canal Azteca 7  (México)</display-name>
+    <display-name lang="es">Canal Azteca 7 (México)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -476,9 +476,6 @@
   <programme start="20200918233000 -0500" stop="20200919000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
     <title lang="es">Contacto deportivo En Vivo</title>
   </programme>
-  <programme start="20200919230000 -0500" stop="20200919233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
-    <title lang="es">Relatos Macabrones</title>
-  </programme>
   <programme start="20200912003000 -0500" stop="20200912010000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
     <title lang="es">Contacto deportivo En Vivo</title>
   </programme>
@@ -700,12 +697,6 @@
   </programme>
   <programme start="20200917143000 -0500" stop="20200917153000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
     <title lang="es">Recuerda y Gana</title>
-  </programme>
-  <programme start="20200918000000 -0500" stop="20200918003000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
-    <title lang="es">Renta Congelada</title>
-  </programme>
-  <programme start="20200918143000 -0500" stop="20200918153000 -0500" channel="Canal de las Estrellas -1 Hora - México (XEW)">
-    <title lang="es">Minuto para ganar VIP</title>
   </programme>
   <programme start="20200912003000 -0500" stop="20200912010000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
     <title lang="es">En Punto Denise Maerker En Vivo</title>
@@ -934,9 +925,6 @@
   </programme>
   <programme start="20200918153000 -0500" stop="20200918163000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
     <title lang="es">Recuerda y Gana</title>
-  </programme>
-  <programme start="20200919010000 -0500" stop="20200919013000 -0500" channel="Canal de las Estrellas -2 Horas - México (XEW)">
-    <title lang="es">Renta Congelada</title>
   </programme>
   <programme start="20200912013000 -0500" stop="20200912020000 -0500" channel="Foro tv">
     <title lang="es">Fractal</title>
@@ -1448,42 +1436,6 @@
   <programme start="20200917063000 -0500" stop="20200917070000 -0500" channel="Canal 5 de México (XHGC)">
     <title lang="es">Las canciones de masha</title>
   </programme>
-  <programme start="20200918000000 -0500" stop="20200918010000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200918010000 -0500" stop="20200918020000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">México Nuevo Siglo</title>
-  </programme>
-  <programme start="20200918020000 -0500" stop="20200918043000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200918053000 -0500" stop="20200918063000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Soy sano</title>
-  </programme>
-  <programme start="20200918071500 -0500" stop="20200918083000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Bebés llorones</title>
-  </programme>
-  <programme start="20200918100000 -0500" stop="20200918110000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Yu-Gi-Oh</title>
-  </programme>
-  <programme start="20200918110000 -0500" stop="20200918120000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Bunsen es una bestia</title>
-  </programme>
-  <programme start="20200918150000 -0500" stop="20200918164500 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Miraculous II</title>
-  </programme>
-  <programme start="20200918164500 -0500" stop="20200918190000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">La luz del día</title>
-  </programme>
-  <programme start="20200918190000 -0500" stop="20200918210000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Volcán</title>
-  </programme>
-  <programme start="20200918210000 -0500" stop="20200918230000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Lo Imposible</title>
-  </programme>
-  <programme start="20200918230000 -0500" stop="20200919000000 -0500" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Chicago PD</title>
-  </programme>
   <programme start="20200912003000 -0500" stop="20200912023000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Paid Programing</title>
   </programme>
@@ -1757,33 +1709,6 @@
   <programme start="20200918113000 -0500" stop="20200918120000 -0500" channel="Canal Azteca 7  (México)">
     <title lang="es">Power Rangers Dino super charg</title>
   </programme>
-  <programme start="20200919010000 -0500" stop="20200919030000 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200919030000 -0500" stop="20200919050000 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200919050000 -0500" stop="20200919051500 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200919051500 -0500" stop="20200919053000 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">Especial de R.T.C</title>
-  </programme>
-  <programme start="20200919053000 -0500" stop="20200919063000 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20200919063000 -0500" stop="20200919064500 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">Gallinita Pintadita</title>
-  </programme>
-  <programme start="20200919064500 -0500" stop="20200919070000 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">Amigazazo</title>
-  </programme>
-  <programme start="20200919120000 -0500" stop="20200919123000 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">My Little Pony La magia</title>
-  </programme>
-  <programme start="20200919123000 -0500" stop="20200919130000 -0500" channel="Canal Azteca 7  (México)">
-    <title lang="es">Las Chicas Superpoderosas</title>
-  </programme>
   <programme start="20200912010000 -0500" stop="20200912030000 -0500" channel="Canal 9 de México (XEQ-TDT)">
     <title lang="es">Paid Programing</title>
   </programme>
@@ -1972,21 +1897,6 @@
   </programme>
   <programme start="20200917223000 -0500" stop="20200918000000 -0500" channel="Canal 9 de México (XEQ-TDT)">
     <title lang="es">Sin senos si hay paraíso</title>
-  </programme>
-  <programme start="20200918060000 -0500" stop="20200918090000 -0500" channel="Canal 9 de México (XEQ-TDT)">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200918090000 -0500" stop="20200918120000 -0500" channel="Canal 9 de México (XEQ-TDT)">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200918120000 -0500" stop="20200918150000 -0500" channel="Canal 9 de México (XEQ-TDT)">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20200918173000 -0500" stop="20200918200000 -0500" channel="Canal 9 de México (XEQ-TDT)">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20200918200000 -0500" stop="20200918223000 -0500" channel="Canal 9 de México (XEQ-TDT)">
-    <title lang="es">NBA</title>
   </programme>
   <programme start="20200912000200 -0500" stop="20200912020000 -0500" channel="Canal Once TV - México (XEIPN-TV)">
     <title lang="es">Bartolo Toca la Flauta</title>
@@ -2704,11 +2614,5 @@
   </programme>
   <programme start="20200918233000 -0500" stop="20200919000000 -0500" channel="Canal ADN 40">
     <title lang="es">Desde las Cámaras</title>
-  </programme>
-  <programme start="20200919233000 -0500" stop="20200919234500 -0500" channel="Canal ADN 40">
-    <title lang="es">Al filo</title>
-  </programme>
-  <programme start="20200919234500 -0500" stop="20200920000000 -0500" channel="Canal ADN 40">
-    <title lang="es">La de 8</title>
   </programme>
 </tv>
